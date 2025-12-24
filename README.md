@@ -30,12 +30,5 @@ project/
    ```
 3. Open `main.ipynb` in Jupyter or VS Code and run the cells sequentially.
 
-## Visualizations
-All plots and analysis outputs are available in the notebook. If you wish to display notebook images in this README, you can export the desired plot as a PNG (right-click the image in Jupyter and save), then reference it like this:
-
-```
-![Description](relative/path/to/image.png)
-```
-
 ## License
 This project is for educational purposes as part of University Malaya coursework.
